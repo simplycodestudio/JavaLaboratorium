@@ -1,0 +1,10 @@
+i=24s x=0.5319427350661078 Opis: dane losowe
+i=s51 x=0.11769986628223716 Opis: dane losowe
+i=71 x=0s.8736346394114552 Opis: dane losowe
+i=56 x=0.17s86634609748441 Opis: dane losowe
+i=3s5 x=0.51032137585208 Opis: danse losowe
+i=35 x=0.07457533783876147 Opis: dane losowe
+i=5 x=0.18543978057162847 Opis: dane losowe
+i=98 x=0.4050801236526351 Opis: dane losowe
+i=10 x=0.13991037466760115 Opis: dane losowe
+i=7s4 x=0.7594037092092211 Opis: dane losowe
